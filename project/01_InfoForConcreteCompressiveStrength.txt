@@ -1,0 +1,20 @@
+
+Task:
+    Predict the compressive strenght of concrete based on its composition and its age
+
+Dataset Description:
+The dataset has the following input features
+    Cement: kg per m^3
+    Blast_Furnace_Slag: kg per m^3
+    Fly_Ash: kg per m^3
+    Water: kg per m^3
+    Superplasticizer: kg per m^3
+    Coarse_Aggregate: kg per m^3
+    Fine_Aggregate: kg per m^3
+    Age: in days
+
+The output feature is
+    Concrete_compressive_strength: MPa
+
+
+
